@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Derrick Owusu Ansah
 - 👀 I’m interested in Software Quality Assurance (Manual and Automation)
-- 🌱 I’m currently learning RobotFramework, Robotics Process Automation(RPA)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AWS cloud technologies
+- 💞️ I’m looking to collaborations to enhance my skills 
 - 📫 How to reach me at +233207852722 or owusuansah.derrick@outlook.com
 
 <!---
